@@ -12,7 +12,7 @@ def read_info(name):
             if not line:
                 break
             all_data.append(line)
-    return all_data
+    
 
 if __name__ == '__main__':
 
